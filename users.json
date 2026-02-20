@@ -1,0 +1,20 @@
+{
+  "1": {
+    "name": "sahana",
+    "email": "sahanashekar2004@gmail.com",
+    "password": "scrypt:32768:8:1$XXzyI2VbyKQ9iAfJ$38de672dea1db7e127d9f8f8552508c7ee0731b013f27ac9055fddffe1c40669cbd048d7c0ac1f36a6df8e03a252f7bc848fc5a02755faf37d0c92c85e14f820",
+    "created_at": "2026-01-10T10:10:10.037971"
+  },
+  "2": {
+    "name": "ratna",
+    "email": "ratnalakka@gmail.com",
+    "password": "scrypt:32768:8:1$PLtCsw2P9cQ9sGGF$beb70a936b7f1315f8766adf5761da11c546e660f9d7237a33cd0530dd06d9458efea547579cb6bffe40172421c83f09f3f2c0b5390bdab3c445adf7858eb202",
+    "created_at": "2026-01-10T10:11:39.558040"
+  },
+  "3": {
+    "name": "Akash",
+    "email": "akashbangera13@gmail.com",
+    "password": "scrypt:32768:8:1$HxoOFawGqTRyKOGM$48282b0e0f13ed7bb879b4a8fe6a00608dd5f78aa695ba339a9f045f423b2125385d2211d093c59cb20d4413fb6190ae8a9bf5070f2f293600142f94f14229a5",
+    "created_at": "2026-01-10T10:17:57.901826"
+  }
+}
